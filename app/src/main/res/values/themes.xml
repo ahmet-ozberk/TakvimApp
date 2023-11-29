@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Takvim" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/primary_color</item>
+
+        <!-- Statusbar color change -->
+<!--        <item name="android:statusBarColor">@color/transparent</item>-->
+<!--        <item name="android:windowLightStatusBar">true</item>-->
+
+
+    </style>
+
+    <style name="Theme.Takvim" parent="Base.Theme.Takvim" />
+</resources>
